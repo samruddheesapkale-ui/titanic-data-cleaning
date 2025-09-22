@@ -63,6 +63,10 @@ PassengerId, Survived, Pclass, Sex_num, Age_filled, Fare_capped, FamilySize, IsA
  
   README.md → this file (project documentation).
 
+  Screenshots → Step by Step execution screenshots.
+
+  titanic_cleaning.ipynb → Code for this project.
+
 📊 Quick Insights from Cleaned Data
 
 Sex & Survival → females had higher survival rates.
