@@ -54,24 +54,35 @@ PassengerId, Survived, Pclass, Sex_num, Age_filled, Fare_capped, FamilySize, IsA
 ✅ 0 missing values, ready for machine learning.
 
 📂 Files in this Repository
-Titanic-Dataset.csv → original raw dataset.
-titanic_cleaned.csv → fully cleaned dataset with all features.
-titanic_cleaned_slim.csv → slimmed, modeling-ready dataset.
-README.md → this file (project documentation).
+
+  Titanic-Dataset.csv → original raw dataset.
+   
+  titanic_cleaned.csv → fully cleaned dataset with all features.
+  
+  titanic_cleaned_slim.csv → slimmed, modeling-ready dataset.
+ 
+  README.md → this file (project documentation).
 
 📊 Quick Insights from Cleaned Data
+
 Sex & Survival → females had higher survival rates.
+
 Pclass & Survival → higher-class passengers (1st class) had higher survival rates.
+
 FamilySize → small families had better survival odds than passengers traveling alone.
 
 🚀 Next Steps
 
 With the cleaned dataset, you can:
+
 Build ML models (e.g., Logistic Regression, Random Forest).
+
 Perform EDA (exploratory data analysis) with plots.
+
 Compare feature importance and survival patterns.
 
 ✨ Author: Samruddhee Sapkale
+
 📅 Date: 22=09-2025
 
 
